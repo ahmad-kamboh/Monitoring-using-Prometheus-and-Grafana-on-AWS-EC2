@@ -1,0 +1,6 @@
+*.log
+*.tar.gz
+*.pem
+__pycache__/
+.env
+config/secrets.yml
