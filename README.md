@@ -36,7 +36,8 @@ Architecture includes:
 
 - Grafana Dashboard for visualization  
 
-![Prometheus Architecture](images/prometheus_architecture.png)
+
+![Image](https://github.com/user-attachments/assets/ce6ef1c2-e992-4d25-81dd-13d0bdb8a1ae)
 
 ---
 
