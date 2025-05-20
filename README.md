@@ -74,4 +74,4 @@ cd /usr/local/prometheus
 | Phone      | +92 3000511136               |
 | LinkedIn   | https://linkedin.com/in/m-ahmadtahir |
 
-![Image](https://github.com/user-attachments/assets/27559400-a712-4466-972a-da5850629426)
+
