@@ -1,5 +1,7 @@
 # **Monitoring using Prometheus and Grafana on AWS EC2 📟**
 
+![Image](https://github.com/user-attachments/assets/1d4649be-283f-4dab-8360-35c6fc584d00)
+
 ## **Project Overview**
 
 Ye project AWS EC2 instances par Prometheus aur Grafana ko install aur configure karne ka hai taake system monitoring aur metrics visualization ho sake. Is project mein Prometheus architecture, installation, aur EC2 service discovery bhi cover kiya gaya hai.
