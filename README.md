@@ -1,3 +1,4 @@
+
 # **Monitoring using Prometheus and Grafana on AWS EC2**
 
 ---
@@ -48,11 +49,16 @@ sudo mv prometheus-2.45.0.linux-amd64 /usr/local/prometheus
 # Run Prometheus
 cd /usr/local/prometheus
 ./prometheus --config.file=prometheus.yml
+```
 
+---
 
-Contact
-Email: ahmadtahir4235@gmail.com
+### **Contact**
 
-Phone: +92 3000511136
+| **Method** | **Details**                                      |
+|------------|-------------------------------------------------|
+| Email      | ahmadtahir4235@gmail.com                         |
+| Phone      | +92 3000511136                                   |
+| LinkedIn   | [linkedin.com/in/m-ahmadtahir](https://www.linkedin.com/in/m-ahmadtahir) |
 
-LinkedIn: https://www.linkedin.com/in/m-ahmadtahir
+---
