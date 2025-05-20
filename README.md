@@ -65,5 +65,5 @@ cd /usr/local/prometheus
 | Phone      | +92 3000511136               |
 | LinkedIn   | https://linkedin.com/in/m-ahmadtahir |
 
-
+![image alt](https://github.com/ahmad-kamboh/Monitoring-using-Prometheus-and-Grafana-on-AWS-EC2/blob/ca3426d5a161b408f7a9ec31abd8cbe6bcf63e87/52875d66-61c2-4337-a149-e1332f4d9bf4.png)
 
