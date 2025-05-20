@@ -48,6 +48,8 @@ sudo mv prometheus-2.45.0.linux-amd64 /usr/local/prometheus
 # Run Prometheus
 cd /usr/local/prometheus
 ./prometheus --config.file=prometheus.yml
+
+
 Contact
 Email: ahmadtahir4235@gmail.com
 
