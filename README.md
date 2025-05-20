@@ -63,7 +63,8 @@ cd /usr/local/prometheus
 ./prometheus --config.file=prometheus.yml
 
 
-![Image](https://github.com/user-attachments/assets/4aa71b8f-8181-4481-b8cc-433ce8f5c20a)
+
+
 
 📞 Contact Information
 
