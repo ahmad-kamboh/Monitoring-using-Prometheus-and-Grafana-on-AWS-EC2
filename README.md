@@ -59,7 +59,8 @@ sudo mv prometheus-2.45.0.linux-amd64 /usr/local/prometheus
 cd /usr/local/prometheus
 ./prometheus --config.file=prometheus.yml
 
-![Image](https://github.com/user-attachments/assets/f6cd4ab4-3d43-4b78-92bf-746ed919ddbc)
+
+![Image](https://github.com/user-attachments/assets/27559400-a712-4466-972a-da5850629426)
 
 
 📞 Contact Information
