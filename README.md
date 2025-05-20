@@ -59,10 +59,6 @@ sudo mv prometheus-2.45.0.linux-amd64 /usr/local/prometheus
 cd /usr/local/prometheus
 ./prometheus --config.file=prometheus.yml
 
-
-![Image](https://github.com/user-attachments/assets/27559400-a712-4466-972a-da5850629426)
-
-
 📞 Contact Information
 
 | **Method** | **Details**                  |
@@ -71,4 +67,4 @@ cd /usr/local/prometheus
 | Phone      | +92 3000511136               |
 | LinkedIn   | https://linkedin.com/in/m-ahmadtahir |
 
-<!-- Uploading "WhatsApp Image 2025-05-19 at 23.31.17_e456c152.jpg"... -->
+![Image](https://github.com/user-attachments/assets/27559400-a712-4466-972a-da5850629426)
